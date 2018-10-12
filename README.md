@@ -1,4 +1,4 @@
-# market_risk_minimization
+# market_risk_simulation
 
 Python code to demonstrate the effect of portfolio trade compression on financial market risk.
 
